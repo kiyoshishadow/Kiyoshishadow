@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kiyoshishadow/Kiyoshishadow/main/github-user-contribution.svg" alt="GitHub Contributions Snake Game"/>
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
