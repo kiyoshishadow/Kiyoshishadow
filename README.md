@@ -52,14 +52,9 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kiyoshishadow/kiyoshishadow/output/snake.svg" alt="Snake animation" />
-
-###
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kiyoshishadow/Kiyoshishadow/main/github-user-contribution.svg" alt="GitHub Contributions Snake Game"/>
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiyoshishadow/kiyoshishadow/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiyoshishadow/kiyoshishadow/output/pacman-contribution-graph.svg">
