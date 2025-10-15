@@ -46,20 +46,11 @@
 
 ###
 
-<div align="left">
-  <a href="619766705308303370" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kiyoshishadow/Kiyoshishadow/main/github-user-contribution.svg" alt="GitHub Contributions Snake Game"/>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kiyoshishadow/kiyoshishadow/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kiyoshishadow/kiyoshishadow/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kiyoshishadow/kiyoshishadow/output/pacman-contribution-graph.svg">
-</picture>
 
 
 <div align="center">
